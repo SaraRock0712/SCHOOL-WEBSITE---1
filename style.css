@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+#audi{
+    width: 224px;
+    height: 150px;
+}
+
+#room1{
+    width: 224px;
+    height: 150px;
+}
+
+h3{
+    font-family: fantasy;
+    font-size: 30px;
+}
